@@ -28,5 +28,5 @@ python MGTAB-GNN.py
 ```
 
 ##  Datasets download
-For datasets, please visit the [Bot Datasets][https://drive.google.com/drive/folders/1DXjb48SYKlv0KxZb_rq3OlaC6JAU-4P7?usp=sharing].
+For datasets, please visit the [Bot Datasets](https://drive.google.com/drive/folders/1DXjb48SYKlv0KxZb_rq3OlaC6JAU-4P7?usp=sharing).
 After downloading these datasets, please unzip it into path "./Dataset".
